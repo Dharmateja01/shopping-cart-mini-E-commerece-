@@ -12,6 +12,8 @@ Quantity Control: The Cart Page allows users to update item quantities or remove
 
 Responsive UI: Styled with Tailwind CSS for a clean, modern, and mobile-friendly interface.
 
+Core Concepts Mastered
+This project is built specifically to demonstrate a strong command of the following essential React concepts:
 | Concept | Description |
 | :--- | :--- |
 | **React Context API** | Used to create a global, centralized store for the cart state, ensuring a single source of truth for the entire application. |
